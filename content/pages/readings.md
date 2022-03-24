@@ -87,7 +87,7 @@ Ellen Swallow Richards Lab
 
 \[MHS\] Chapter 25: UV & VIS Spectroscopy, pp. 465–475.
 
-Michaud, Joy. Chapter 4 in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_A Citizens Guide to Understanding and Monitoring Lakes and Streams_ (PDF – 7.4MB)](https://fortress.wa.gov/ecy/publications/documents/94149.pdf). Puget Sound Water Quality Authority, 1991, pp. 45–58. 
+Michaud, Joy. Chapter 4 in [_A Citizens Guide to Understanding and Monitoring Lakes and Streams_ (PDF – 7.4MB)](https://fortress.wa.gov/ecy/publications/documents/94149.pdf). Puget Sound Water Quality Authority, 1991, pp. 45–58. 
 
 ### Review
 
