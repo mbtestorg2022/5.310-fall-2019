@@ -200,7 +200,7 @@ The student also completes a protein assay on an unknown sample of catalase usin
 Required Videos from the MIT Digital Laboratory Techniques Manual
 -----------------------------------------------------------------
 
-In addition to the reading and written preparation for each experiment, students are also assigned to view selected videos from the [MIT Digital Laboratory Techniques Manual](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/), a series of videos designed to help students prepare for chemistry laboratory class.
+In addition to the reading and written preparation for each experiment, students are also assigned to view selected videos from the [MIT Digital Laboratory Techniques Manual](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007), a series of videos designed to help students prepare for chemistry laboratory class.
 
 {{< tableopen >}}
 {{< theadopen >}}
